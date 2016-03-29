@@ -1,0 +1,46 @@
+
+.page-title {
+  font-weight: regular;
+  font-size: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+body {
+  font-family: Arial;
+  padding: 40px;
+  text-align:left;
+}
+
+div {
+    background-color: grey;
+    padding:10px;
+}
+
+.furry div.class{
+  background-color:lightblue;
+  font-color:lightblue;
+}
+.furry div.class{
+  background-color:lightblue;
+}
+
+
+.dog div.class{
+  background-color:orange;
+  font-color:black;
+}
+.dog div.class{
+  background-color:orange;
+}
+
+ .strong div.class{
+  background-color:red;
+  font-color:black;
+}
+.strong div.class{
+  background-color:red;
+  font-color:black;
+}
+
+
