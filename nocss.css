@@ -1,0 +1,65 @@
+.page-title {
+  font-weight:regular;
+  font-size: 20px;
+  margin-top:40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+body{
+background-color:lightblue;
+font-family: Arial;
+font-size:20px;
+padding: 20px;
+}
+
+div{
+  padding:20px;
+  text-align:center;
+}
+
+.page-title{
+  background-color:lightblue;
+}
+
+.place-desert{
+  background-color:yellow;
+}
+
+.place-dessert div{
+  background-color:orange;
+}
+
+
+.place-footer-desert{
+  background-color:orange;
+}
+
+
+.place-jungle{
+  background-color:lightgreen;
+}
+
+.place-jungle div{
+  background-color:green;
+}
+
+.place-footer-jungle{
+  background-color:green;
+}
+
+.place-city{
+  background-color:black;
+}
+
+.place-city div{
+  background-color:grey;
+  font:white;
+}
+
+.place-footer-city{
+  background-color:grey;
+  font:white;
+}
+
+

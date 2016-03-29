@@ -1,0 +1,36 @@
+
+body {
+  font-family: Arial;
+  padding: 40px;
+  text-align:left;
+  
+}
+
+.furry-title{
+  background-color:grey;
+  font-color:lightblue;
+}
+
+.furry div{
+  background-color:lightblue;
+}
+
+
+.dog-title{
+  background-color:grey;
+  font-color:orange;
+}
+.dog div{
+  background-color:orange;
+}
+
+.strong-title{
+  background-color:grey;
+  font-color:red;
+}
+.strong div{
+  background-color:red;
+  font-color:black;
+}
+
+
