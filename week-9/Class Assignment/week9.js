@@ -1,4 +1,7 @@
-
+setTimeout(function (click) {
+  console.log=click('that move like waves');
+}, 1000);
+ 
  window.addEventListener('click'),function 
 (e){
   var feedback=
@@ -11,3 +14,6 @@
   container.appendChild(feedback);
   });
 
+
+var node = document.querySelector("second-line");
+node.style.background =green;
